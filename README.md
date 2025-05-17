@@ -4,10 +4,10 @@ Exploratory data analysis of hotel bookings, including visualizations and insigh
 This repository contains an exploratory data analysis (EDA) of a hotel booking dataset available on Kaggle at https://www.kaggle.com/datasets/mojtaba142/hotel-booking.
 The goal is to explore the structure and behavior of the data, with a focus on understanding patterns in bookings, cancellations, and guest behavior.
 
-This project requires the following Python packages
-numpy==1.26.4
-matplotlib==3.9.4
-seaborn==0.13.2
+This project requires the following Python packages\\
+numpy==1.26.4\\
+matplotlib==3.9.4\\
+seaborn==0.13.2\\
 pandas==2.2.3
 
 
